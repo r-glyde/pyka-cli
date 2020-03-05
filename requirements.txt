@@ -1,4 +1,3 @@
 confluent-kafka[avro]==1.3.0
-python-schema-registry-client[faust]==1.2.5
-fastavro==0.22.12
+fastavro==0.22.13
 argparse==1.4.0
